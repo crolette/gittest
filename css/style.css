@@ -137,6 +137,10 @@ table {
 
 /* END RESET CSS */
 
+body {
+  border: 1px solid red;
+}
+
 /* FOOTER LOGO CROLWEB */
 .footer__logo {
   position: fixed;
